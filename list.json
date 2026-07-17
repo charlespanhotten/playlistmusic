@@ -1,12 +1,1964 @@
 {
     "Songs": [
         {
-            "Title": "JB 2023 MIX 1",
-            "Artist": "Qito",
-            "Genre": "RnB",
-            "ImageId": "",
-            "SoundId": "rbxassetid://111785131713731",
-            "Speed": 0.5
-        },
+        "Title": "ARIA",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://85067303054085",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bhabi",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://111023648116572",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Pon Di Gente",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://123982005589689",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Trumpets",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://139231036939011",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Voodoo Edit",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://117665500335324",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SHE GOING HAM ON MY D",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://98563596243730",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Set Me Free",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://131583116581436",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Lowkey",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://71917195305524",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Phone Call",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://77663219748695",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Naroh",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://85411371828338",
+        "Speed": 0.43
+    },
+    {
+        "Title": "booty call",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://72811646697458",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Maneskin - Beggin",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://80954475115589",
+        "Speed": 0.43
+    },
+    {
+        "Title": "My Lecon",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://120498705367620",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Tate McRae - Greedy",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://84367115077605",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Ya TabTab",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://140439124526505",
+        "Speed": 0.43
+    },
+    {
+        "Title": "DAT $TICK",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://90586905601390",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Gasolina",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://82117112617753",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Jessi - Zoom",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://107463265633123",
+        "Speed": 0.43
+    },
+    {
+        "Title": "In Da Getto",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://129098506677106",
+        "Speed": 0.43
+    },
+    {
+        "Title": "FOLDED Hipdut",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://111400716804702",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Olivia Dean - So Easy HipDut",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://83152233084535",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hold On X Goyang Dumang",
+        "Artist": "",
+        "Genre": "DJ SETLIST MIX",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://99597902212103",
+        "Speed": 0.43
+    }
+        -- RNB Playlist
+    {
+        "Title": "Mariah Carey - Always Be My Baby",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://113002744216106",
+        "Speed": 0.43
+    },
+    {
+        "Title": "exchange",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://127803397320389",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Chris Brown - No Guidance Ft. Drake",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://107391257965764",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bryson Tiller ft. Drake- Outta Time",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://97285855128538",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SZA on Come and See Me by PARTYNEXTDOOR ft. Drake",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://118864554058280",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Popular - The Weeknd",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://90959791765853",
+        "Speed": 0.43
+    },
+    {
+        "Title": "David Craig - Don't love you no more",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://133816751717556",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Ain't It Fun Bae",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://91220701892666",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Alicia Keys - You Don't Know My Name",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://128937180579382",
+        "Speed": 0.43
+    },
+    {
+        "Title": "TEMS x KEYSHIA COLE ~ FREE MIND",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://103138005219563",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Saweetie - My Type",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://71426535854935",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Tyla - Jump",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://133624616979629",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Lauryn Hill - Can't Take My Eyes Off Of You",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://101222633736164",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SZA - The Weekend",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://128655651886483",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BIRDS OF A FEATHER - Billie Eilish",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://73158186699899",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LOVE. - Kendrick Lamar ft. Zacari",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://129770085774446",
+        "Speed": 0.43
+    },
+    {
+        "Title": "NVDA",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://92790477186294",
+        "Speed": 0.43
+    },
+    {
+        "Title": "WANT U BAD - Christine",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://88946433562605",
+        "Speed": 0.43
+    },
+    {
+        "Title": "VEDO - You Got It",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://123801719226259",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Summer Walker & Ciara - Ex Party",
+        "Artist": "",
+        "Genre": "RNB",
+        "ImageId": "rbxassetid://139921760964633",
+        "SoundId": "rbxassetid://119609249712104",
+        "Speed": 0.43
+    }
+        -- Manyao Playlist
+    {
+        "Title": "Jumping Machine",
+        "Artist": "Unknown",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://135189540935716",
+        "Speed": 0.50
+    },
+    {
+        "Title": "Bu De Bu Ai",
+        "Artist": "Wilber Pan & Zhang Xian Zi",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://92858804693494",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hou Lai 后来",
+        "Artist": "Inquisitive feat. Hannah Ying",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://71400707996282",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Light Year Away(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://94695530154928",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Wang Le(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://74867434562171",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Turan Hao Xiang Ni(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://78911291461580",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Endless Love(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://79625475887219",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Huang Hun(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://96768326627418",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Ai He(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://94173299753214",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Stranger(Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://134812872471300",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Yu Meng (Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://109195408732507",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bu De Bu Ai (Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://130184744079850",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Qing Tian (Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://93697812909422",
+        "Speed": 0.43
+    },
+    {
+        "Title": "王艳薇 (Manyao)",
+        "Artist": "",
+        "Genre": "Manyao",
+        "ImageId": "",
+        "SoundId": "rbxassetid://132057512629260",
+        "Speed": 0.43
+    }
+        -- EDM Playlist
+    {
+        "Title": "Make U Sweet",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://87640829336982",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Sweet Scar",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://135409123918673",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Heal",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://72966540019730",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Lonely",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://85830972033089",
+        "Speed": 0.50
+    },
+    {
+        "Title": "Choose Your Fighter",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111917522045205",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Shiver",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://79587170701761",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Where You Are",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://137784893023306",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Sun And Moon",
+        "Artist": "",
+        "Genre": "EDM",
+        "ImageId": "",
+        "SoundId": "rbxassetid://132172398900080",
+        "Speed": 1.0
+    }
+        -- Techno Playlist
+    {
+        "Title": "Back To The Sound (Techno)",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://130312156632092",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Girl Stay Happy",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://124448909833172",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Where Have You Been",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117088472790738",
+        "Speed": 0.5
+    },
+    {
+        "Title": "Poker Face",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://76873434943483",
+        "Speed": 0.5
+    },
+    {
+        "Title": "Jack Jack",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://96327827775584",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Rockin To The Rhythm",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77923097289370",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bring It Back",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://116735844656103",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Cryptic",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://120402104807792",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Just Look At Me",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://104756733344606",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Ways To Die",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111140018685263",
+        "Speed": 0.43
+    },
+    {
+        "Title": "You Make Me",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://74507713937984",
+        "Speed": 0.43
+    },
+    {
+        "Title": "About You",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90128353558488",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Techno Fix",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://78567338003249",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Apple Bottom",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://73397628070632",
+        "Speed": 0.43
+    },
+    {
+        "Title": "2 Be High",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://136292492868143",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Last Resort",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://107486076142594",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bankrolls",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://120995385273429",
+        "Speed": 0.43
+    },
+    {
+        "Title": "La Vie C'est Fantastique",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://81641978616176",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Trip To Valhalla",
+        "Artist": "Unknown",
+        "Genre": "Techno",
+        "ImageId": "",
+        "SoundId": "rbxassetid://120226114435695",
+        "Speed": 0.43
+    }
+        -- BKB Playlist
+    {
+        "Title": "LIFE OF PARTY (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://78860936501031",
+        "Speed": 1.0
+    },
+    {
+        "Title": "CASTLE IN THE SKY (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://109937892747602",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Concrete Angel (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://119861445710970",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Feels Like Home (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://99240844958326",
+        "Speed": 1.0
+    },
+    {
+        "Title": "Sun Shine Love (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://99686528265640",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Black Hole (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://125154213869083",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Sun Shine Love (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://99686528265640",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Remember Us This Way (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://119336944594218",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bad Boys (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77456477848734",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Badada (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://93641480669503",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Barbies x Que Pasha (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://73406278274295",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Broken Angel (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://81502987509496",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Gasolina (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://120941598316796",
+        "Speed": 0.43
+    },
+    {
+        "Title": "HarlemShake (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://110793401545643",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Amazing (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90496614355198",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Better Half Of Me (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://101038535341618",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Deep In Love (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://73459305658461",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Dora Dora (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://119689868277101",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Drive (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://115250303098421",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Joana (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://123219509765586",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Miracle (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://100957600846002",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Put Your Hands UP (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://103795866287496",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Rise (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://98899539666686",
+        "Speed": 0.43
+    },
+    {
+        "Title": "River Flows In You (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://97424444279339",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Sweet Love (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://95657059552892",
+        "Speed": 0.43
+    },
+    {
+        "Title": "KISS IT BETTER (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111606813662620",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LIKE A G6 x TOKYO DRIFT (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111551364606686",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Love Is Unbound (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77198353504724",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Mugwanti (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://94824454607312",
+        "Speed": 0.43
+    },
+    {
+        "Title": "One Million (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://135756855828056",
+        "Speed": 0.43
+    },
+    {
+        "Title": "I KNOW YOU WANT ME (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://137248203356321",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Shelter (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://84105523523386",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Shadow (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://126059723549976",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Water (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://82004940705635",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Sweet Scars Version (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://122257692903015",
+        "Speed": 1.0
+    },
+    {
+        "Title": "This I Vow (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://87322072205851",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Where Do We Begin (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://140013569881947",
+        "Speed": 0.5
+    },
+    {
+        "Title": "You Don't Even Know Me (BKB)",
+        "Artist": "Unknown",
+        "Genre": "BKB",
+        "ImageId": "",
+        "SoundId": "rbxassetid://116322637706153",
+        "Speed": 1.0
+    }
+        -- IndoBounce Playlist
+    {
+        "Title": "1234 (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://93247277642544",
+        "Speed": 1.0
+    },
+    {
+        "Title": "SMASH CLARITY (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://103095593283627",
+        "Speed": 0.43
+    },
+    {
+        "Title": "WHEN IM GONE (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://75101974333830",
+        "Speed": 0.43
+    },
+    {
+        "Title": "STAR BOY (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://123395898349735",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Nasty Thrash (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://86919960453043",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Tsunami (IDB)",
+        "Artist": "Unknown",
+        "Genre": "IndoBounce",
+        "ImageId": "",
+        "SoundId": "rbxassetid://139084637892286",
+        "Speed": 0.43
+    }
+        -- KPOP PLAYLIST
+     {
+        "Title": "CLICK CLACK - BABYMONSTER",
+        "Artist": "Unknown",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117498327258806",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BTS - Hooligan",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://115324577313597",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BTS - Take Two",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://137593511813738",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BTS - Swim",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://89751212995132",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Jungkook - Steel With You",
+        "Artist": "Jungkook",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://96549962030018",
+        "Speed": 0.43
+    },
+    {
+        "Title": "REALLY LIKE U - BABYMONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://82148283072059",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BILLIONARE - BABYMONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90725612840353",
+        "Speed": 0.43
+    },
+    {
+        "Title": "DRIP - BABYMONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://84103592017060",
+        "Speed": 0.43
+    },
+    {
+        "Title": "WE GO UP - BABY MONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90725612840353",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SPOT - ZICO",
+        "Artist": "ZICO",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://75396950617050",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LIKE THAT - BABY MONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://112589660593837",
+        "Speed": 0.43
+    },
+    {
+        "Title": "ARMAGEDDON - AESPA",
+        "Artist": "aespa",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90038487687881",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BATTER UP - BABY MONSTER",
+        "Artist": "BABYMONSTER",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://116954961966189",
+        "Speed": 0.43
+    },
+    {
+        "Title": "DNA - BTS",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://137506097427733",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BLOOD SWEAT & TEARS - BTS",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://73126117430448",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LOVE SICK GIRLS - BLACKPINK",
+        "Artist": "BLACKPINK",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://118695533201242",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BOOMBAYAH - BLACKPINK",
+        "Artist": "BLACKPINK",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117842694501864",
+        "Speed": 0.43
+    }
+    {
+        "Title": "LALISA - LISA",
+        "Artist": "LISA",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://94639567472189",
+        "Speed": 0.43
+    },
+    {
+        "Title": "TT - TWICE",
+        "Artist": "TWICE",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://82535032958991",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BOOM BOOM",
+        "Artist": "MOMOLAND",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://92868011385617",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LIKEY - TWICE",
+        "Artist": "TWICE",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77065610317419",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SHUTDOWN - BLACKPINK",
+        "Artist": "BLACKPINK",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://116579648869552",
+        "Speed": 0.43
+    },
+    {
+        "Title": "KO KO BOP - EXO",
+        "Artist": "EXO",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://126415936952393",
+        "Speed": 0.43
+    },
+    {
+        "Title": "NOT TODAY - BTS",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://134053082009206",
+        "Speed": 0.43
+    },
+    {
+        "Title": "CHEER UP - TWICE",
+        "Artist": "TWICE",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://98913206251004",
+        "Speed": 0.43
+    },
+    {
+        "Title": "FANTASTIC BABY - BIGBANG",
+        "Artist": "BIGBANG",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://122037547647520",
+        "Speed": 0.43
+    },
+    {
+        "Title": "WANNABE - ITZY",
+        "Artist": "ITZY",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://113746401908607",
+        "Speed": 0.43
+    },
+    {
+        "Title": "FEEL SPECIAL - TWICE",
+        "Artist": "TWICE",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://139158205407236",
+        "Speed": 0.43
+    },
+    {
+        "Title": "FLOWER - JISOO",
+        "Artist": "JISOO",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://85156362817621",
+        "Speed": 0.43
+    },
+    {
+        "Title": "MIC DROP - BTS",
+        "Artist": "BTS",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://86365422111629",
+        "Speed": 0.43
+    },
+    {
+        "Title": "GEE - Girls' Generation",
+        "Artist": "Girls' Generation",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://128785906497529",
+        "Speed": 0.43
+    },
+    {
+        "Title": "JUMP - BLACKPINK",
+        "Artist": "BLACKPINK",
+        "Genre": "KPop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://104690900435206",
+        "Speed": 0.43
+    }
+    {
+        "Title": "SHEESH - BABYMONSTER",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://140226286228568",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BANG BANG BANG - BIGBANG",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://123389445068067",
+        "Speed": 0.43
+    },
+    {
+        "Title": "HARU HARU - BIGBANG",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://140131869077336",
+        "Speed": 0.43
+    },
+    {
+        "Title": "MA BOY - ELECTRICBOYZ",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://98160325225406",
+        "Speed": 0.5
+    },
+    {
+        "Title": "JENNIE - JENNIE",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://110613109786145",
+        "Speed": 0.5
+    },
+    {
+        "Title": "LOVE SCENARIO - IKON",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://107275355002196",
+        "Speed": 0.5
+    },
+    {
+        "Title": "DYNAMITE - BTS",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77472035887489",
+        "Speed": 1.0
+    },
+    {
+        "Title": "DRAMA - AESPA",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://113546325585310",
+        "Speed": 1.0
+    },
+    {
+        "Title": "LOVE SHOT - EXO",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://88607189067080",
+        "Speed": 1.0
+    },
+    {
+        "Title": "CHOOMP",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://129763372531957",
+        "Speed": 0.43
+    },
+    {
+        "Title": "KPOP MIXTAPE",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117807034202450",
+        "Speed": 0.5
+    },
+    {
+        "Title": "aespa (에스파) ft G-Dragon 'WDA",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117765022607040",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Say Yes",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://110304767331324",
+        "Speed": 0.43
+    },
+    {
+        "Title": "DAVICHI(다비치) - This Love",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://95436801685463",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Stay With Me",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://127366537757526",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LeeHi - ONLY",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://139023395432820",
+        "Speed": 0.43
+    },
+    {
+        "Title": "iKON - RHYTHM TA",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://73277690717796",
+        "Speed": 0.43
+    },
+    {
+        "Title": "EXO - Wolf",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://80680510026208",
+        "Speed": 0.43
+    },
+    {
+        "Title": "EXO - Overdose",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://122020220420142",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Ryan.B feat Effie - No Reason",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://109769108171257",
+        "Speed": 0.43
+    },
+    {
+        "Title": "aespa - Black Mamba",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://121509266552742",
+        "Speed": 0.43
+    },
+    {
+        "Title": "iKON - BEST FRIEND",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77840549290923",
+        "Speed": 0.43
+    },
+    {
+        "Title": "ITZY - MAFIA In the Morning",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://140177964594814",
+        "Speed": 0.43
+    },
+    {
+        "Title": "IVE - Baddie",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://115380649643985",
+        "Speed": 0.43
+    },
+    {
+        "Title": "KISS OF LIFE - Igloo",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://91723037780951",
+        "Speed": 0.43
+    },
+    {
+        "Title": "J-Hope - Killin' It Girl",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://81432215366319",
+        "Speed": 0.43
+    },
+    {
+        "Title": "BIBI - Vengeance",
+        "Artist": "Unknown",
+        "Genre": "Kpop",
+        "ImageId": "",
+        "SoundId": "rbxassetid://106449126102577",
+        "Speed": 0.43
+    }
+        -- Original Track
+    {
+        "Title": "Sick Of Love",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://80926604186520",
+        "Speed": 0.36
+    },
+    {
+        "Title": "WE DON'T CARE - XMAN NDUGAL",
+        "Artist": "XMAN NDUGAL",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://108523168709049",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hate that",
+        "Artist": "Ariana Grande",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://119071732164518",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Let the World Burn",
+        "Artist": "Chris Grey",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://135012436944764",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Love Me Harder",
+        "Artist": "Ariana Grande",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://88765349901508",
+        "Speed": 0.43
+    },
+    {
+        "Title": "I Don't F*** With You",
+        "Artist": "Big Sean",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://97628433850064",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Not Like Us",
+        "Artist": "Kendrick Lamar",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://113405104904610",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hooligang",
+        "Artist": "Joey Valence",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://124792343564585",
+        "Speed": 0.43
+    },
+    {
+        "Title": "DRUNK TEXT",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://117222244743860",
+        "Speed": 0.4
+    },
+    {
+        "Title": "SI AI",
+        "Artist": "TAYNA",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://137651724486737",
+        "Speed": 0.4
+    },
+    {
+        "Title": "Pedro",
+        "Artist": "Cap Farruko",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://130437833626343",
+        "Speed": 0.4
+    },
+    {
+        "Title": "Subeme La Radio",
+        "Artist": "Enrique Iglesias",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://114201894627773",
+        "Speed": 0.4
+    },
+    {
+        "Title": "TO THE BONE",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://97119816798476",
+        "Speed": 0.4
+    },
+    {
+        "Title": "STARBOY",
+        "Artist": "The Weeknd",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://75554527581185",
+        "Speed": 0.4
+    },
+    {
+        "Title": "PLAY BOY CERTI",
+        "Artist": "Playboi Carti",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://99870128986736",
+        "Speed": 0.43
+    },
+    {
+        "Title": "LOVELY",
+        "Artist": "Billie Eilish & Khalid",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://72347734620169",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Why Don't We - 8",
+        "Artist": "",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://110143008252043",
+        "Speed": 0.43
+    },
+    {
+        "Title": "RUDE",
+        "Artist": "MAGIC!",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://72699312806750",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SNOOZE",
+        "Artist": "SZA",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111037472780531",
+        "Speed": 0.43
+    },
+    {
+        "Title": "WE CAN'T BE FRIENDS",
+        "Artist": "Ariana Grande",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://90195214037604",
+        "Speed": 0.43
+    },
+    {
+        "Title": "AFTERSHOCK",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://103563771008789",
+        "Speed": 0.43
+    },
+    {
+        "Title": "What You Sayin",
+        "Artist": "Lil Uzi Vert",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://136017764561588",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hero",
+        "Artist": "Cash Cash",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://100669206803921",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Love Me Not",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://121170977348234",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Show Me Love X Take My Mind",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://77439615154413",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Rather Be",
+        "Artist": "Clean Bandit",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://97567599924166",
+        "Speed": 0.43
+    },
+    {
+        "Title": "People X Terminator",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://74803782302234",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SADRAH",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://85671588515218",
+        "Speed": 0.43
+    },
+    {
+        "Title": "SERENA",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://81149121778872",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Jakarta Hari Ini",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://82289937347216",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Choose Your Fighter",
+        "Artist": "Ava Max",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://80746554502546",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Why Don't We - 8",
+        "Artist": "",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://110740193242688",
+        "Speed": 0.43
+    },
+    {
+        "Title": "La La Lost You",
+        "Artist": "NIKI",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://89449400087715",
+        "Speed": 0.43
+    },
+    {
+        "Title": "How To Love",
+        "Artist": "Cash Cash",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://112703273716811",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Play Date",
+        "Artist": "Melanie Martinez",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://102298102851247",
+        "Speed": 0.43
+    },
+    {
+        "Title": "I Love You Baby",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://125892416908275",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Stay The Night",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://125231273303034",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Take A Chance With Me",
+        "Artist": "NIKI",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://120557066324841",
+        "Speed": 0.43
+    },
+    {
+        "Title": "All We Know",
+        "Artist": "The Chainsmokers ft. Phoebe Ryan",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://136521701592337",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Señorita",
+        "Artist": "Shawn Mendes & Camila Cabello",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://87853788595107",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Latih",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://118220565373732",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Don't Let Me Down",
+        "Artist": "The Chainsmokers ft. Daya",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://128576868581399",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Give Me Everything",
+        "Artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://85608899980757",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Till It Hurts",
+        "Artist": "Yellow Claw ft. Ayden",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://92429509326015",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Bawa Santai",
+        "Artist": "ECKO SHOW",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://102561009876654",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Come Closer",
+        "Artist": "Fejoint",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://100746612988665",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Alone",
+        "Artist": "Marshmello",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://83054423835520",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Robbery",
+        "Artist": "Juice WRLD",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://85959269408258",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Back To Friends",
+        "Artist": "Unknown",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://134810820474790",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Who's That Girl",
+        "Artist": "Madonna",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://102573007743334",
+        "Speed": 0.43
+    },
+    {
+        "Title": "New Rules",
+        "Artist": "Dua Lipa",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://114406076369452",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Forget You",
+        "Artist": "CeeLo Green",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111148013495944",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Hello",
+        "Artist": "Mizmo",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://104772402781269",
+        "Speed": 0.43
+    },
+    {
+        "Title": "The Final Countdown",
+        "Artist": "Europe",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://136195599276734",
+        "Speed": 0.43
+    },
+    {
+        "Title": "The One That Got Away",
+        "Artist": "Katy Perry",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://139401348578117",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Dear God",
+        "Artist": "Avenged Sevenfold",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://128654247847633",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Collide",
+        "Artist": "Justine Skye ft. Tyga",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://138849891874961",
+        "Speed": 0.43
+    },
+    {
+        "Title": "Without Me",
+        "Artist": "Halsey",
+        "Genre": "Original Track",
+        "ImageId": "",
+        "SoundId": "rbxassetid://111247568981680",
+        "Speed": 0.43
+    },
     ]
 }
