@@ -6,7 +6,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://85067303054085",
-        Speed = 0.43,
+        Speed = 0.43
     },
     {
         Title = "Bhabi",
@@ -14,7 +14,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://111023648116572",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Pon Di Gente",
@@ -22,7 +22,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://123982005589689",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Trumpets",
@@ -30,7 +30,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://139231036939011",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Voodoo Edit",
@@ -38,7 +38,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://117665500335324",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SHE GOING HAM ON MY D",
@@ -46,7 +46,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://98563596243730",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Set Me Free",
@@ -54,7 +54,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://131583116581436",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Lowkey",
@@ -62,7 +62,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://71917195305524",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Phone Call",
@@ -70,7 +70,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://77663219748695",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Naroh",
@@ -78,7 +78,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://85411371828338",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "booty call",
@@ -86,7 +86,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://72811646697458",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Maneskin - Beggin",
@@ -94,7 +94,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://80954475115589",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "My Lecon",
@@ -102,7 +102,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://120498705367620",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Tate McRae - Greedy",
@@ -110,7 +110,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://84367115077605",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Ya TabTab",
@@ -118,7 +118,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://140439124526505",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "DAT $TICK",
@@ -126,7 +126,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://90586905601390",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Gasolina",
@@ -134,7 +134,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://82117112617753",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Jessi - Zoom",
@@ -142,7 +142,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://107463265633123",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "In Da Getto",
@@ -150,7 +150,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://129098506677106",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "FOLDED Hipdut",
@@ -158,7 +158,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://111400716804702",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Olivia Dean - So Easy HipDut",
@@ -166,7 +166,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://83152233084535",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hold On X Goyang Dumang",
@@ -174,7 +174,7 @@
         Genre = "DJ SETLIST MIX",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://99597902212103",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Mariah Carey - Always Be My Baby",
@@ -182,7 +182,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://113002744216106",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "exchange",
@@ -190,7 +190,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://127803397320389",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Chris Brown - No Guidance Ft. Drake",
@@ -198,7 +198,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://107391257965764",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bryson Tiller ft. Drake- Outta Time",
@@ -206,7 +206,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://97285855128538",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SZA on Come and See Me by PARTYNEXTDOOR ft. Drake",
@@ -214,7 +214,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://118864554058280",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Popular - The Weeknd",
@@ -222,7 +222,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://90959791765853",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "David Craig - Don't love you no more",
@@ -230,7 +230,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://133816751717556",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Ain't It Fun Bae",
@@ -238,7 +238,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://91220701892666",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Alicia Keys - You Don't Know My Name",
@@ -246,7 +246,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://128937180579382",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "TEMS x KEYSHIA COLE ~ FREE MIND",
@@ -254,7 +254,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://103138005219563",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Saweetie - My Type",
@@ -262,7 +262,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://71426535854935",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Tyla - Jump",
@@ -270,7 +270,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://133624616979629",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Lauryn Hill - Can't Take My Eyes Off Of You",
@@ -278,7 +278,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://101222633736164",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SZA - The Weekend",
@@ -286,7 +286,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://128655651886483",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BIRDS OF A FEATHER - Billie Eilish",
@@ -294,7 +294,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://73158186699899",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LOVE. - Kendrick Lamar ft. Zacari",
@@ -302,7 +302,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://129770085774446",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "NVDA",
@@ -310,7 +310,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://92790477186294",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "WANT U BAD - Christine",
@@ -318,7 +318,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://88946433562605",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "VEDO - You Got It",
@@ -326,7 +326,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://123801719226259",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Summer Walker & Ciara - Ex Party",
@@ -334,7 +334,7 @@
         Genre = "RNB",
         ImageId = "rbxassetid://139921760964633",
         SoundId = "rbxassetid://119609249712104",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Jumping Machine",
@@ -350,7 +350,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://92858804693494",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hou Lai 后来",
@@ -358,7 +358,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://71400707996282",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Light Year Away(Manyao)",
@@ -398,7 +398,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://96768326627418",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Ai He(Manyao)",
@@ -406,7 +406,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://94173299753214",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Stranger(Manyao)",
@@ -414,7 +414,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://134812872471300",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Yu Meng (Manyao)",
@@ -422,7 +422,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://109195408732507",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bu De Bu Ai (Manyao)",
@@ -430,7 +430,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://130184744079850",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Qing Tian (Manyao)",
@@ -438,7 +438,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://93697812909422",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "王艳薇 (Manyao)",
@@ -446,7 +446,7 @@
         Genre = "Manyao",
         ImageId = "",
         SoundId = "rbxassetid://132057512629260",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Make U Sweet",
@@ -462,7 +462,7 @@
         Genre = "EDM",
         ImageId = "",
         SoundId = "rbxassetid://135409123918673",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Heal",
@@ -494,7 +494,7 @@
         Genre = "EDM",
         ImageId = "",
         SoundId = "rbxassetid://79587170701761",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Where You Are",
@@ -502,7 +502,7 @@
         Genre = "EDM",
         ImageId = "",
         SoundId = "rbxassetid://137784893023306",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Sun And Moon",
@@ -518,7 +518,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://130312156632092",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Girl Stay Happy",
@@ -526,7 +526,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://124448909833172",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Where Have You Been",
@@ -550,7 +550,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://96327827775584",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Rockin To The Rhythm",
@@ -558,7 +558,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://77923097289370",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bring It Back",
@@ -566,7 +566,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://116735844656103",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Cryptic",
@@ -574,7 +574,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://120402104807792",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Just Look At Me",
@@ -582,7 +582,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://104756733344606",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Ways To Die",
@@ -590,7 +590,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://111140018685263",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "You Make Me",
@@ -598,7 +598,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://74507713937984",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "About You",
@@ -606,7 +606,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://90128353558488",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Techno Fix",
@@ -614,7 +614,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://78567338003249",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Apple Bottom",
@@ -622,7 +622,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://73397628070632",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "2 Be High",
@@ -630,7 +630,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://136292492868143",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Last Resort",
@@ -638,7 +638,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://107486076142594",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bankrolls",
@@ -646,7 +646,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://120995385273429",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "La Vie C'est Fantastique",
@@ -654,7 +654,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://81641978616176",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Trip To Valhalla",
@@ -662,7 +662,7 @@
         Genre = "Techno",
         ImageId = "",
         SoundId = "rbxassetid://120226114435695",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LIFE OF PARTY (BKB)",
@@ -702,7 +702,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://99686528265640",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Black Hole (BKB)",
@@ -710,7 +710,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://125154213869083",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Sun Shine Love (BKB)",
@@ -718,7 +718,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://99686528265640",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Remember Us This Way (BKB)",
@@ -726,7 +726,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://119336944594218",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bad Boys (BKB)",
@@ -734,7 +734,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://77456477848734",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Badada (BKB)",
@@ -742,7 +742,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://93641480669503",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Barbies x Que Pasha (BKB)",
@@ -750,7 +750,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://73406278274295",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Broken Angel (BKB)",
@@ -758,7 +758,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://81502987509496",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Gasolina (BKB)",
@@ -766,7 +766,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://120941598316796",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "HarlemShake (BKB)",
@@ -774,7 +774,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://110793401545643",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Amazing (BKB)",
@@ -782,7 +782,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://90496614355198",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Better Half Of Me (BKB)",
@@ -790,7 +790,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://101038535341618",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Deep In Love (BKB)",
@@ -798,7 +798,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://73459305658461",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Dora Dora (BKB)",
@@ -806,7 +806,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://119689868277101",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Drive (BKB)",
@@ -814,7 +814,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://115250303098421",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Joana (BKB)",
@@ -822,7 +822,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://123219509765586",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Miracle (BKB)",
@@ -830,7 +830,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://100957600846002",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Put Your Hands UP (BKB)",
@@ -838,7 +838,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://103795866287496",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Rise (BKB)",
@@ -846,7 +846,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://98899539666686",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "River Flows In You (BKB)",
@@ -854,7 +854,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://97424444279339",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Sweet Love (BKB)",
@@ -862,7 +862,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://95657059552892",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "KISS IT BETTER (BKB)",
@@ -870,7 +870,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://111606813662620",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LIKE A G6 x TOKYO DRIFT (BKB)",
@@ -878,7 +878,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://111551364606686",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Love Is Unbound (BKB)",
@@ -886,7 +886,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://77198353504724",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Mugwanti (BKB)",
@@ -894,7 +894,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://94824454607312",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "One Million (BKB)",
@@ -902,7 +902,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://135756855828056",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "I KNOW YOU WANT ME (BKB)",
@@ -910,7 +910,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://137248203356321",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Shelter (BKB)",
@@ -918,7 +918,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://84105523523386",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Shadow (BKB)",
@@ -926,7 +926,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://126059723549976",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Water (BKB)",
@@ -934,7 +934,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://82004940705635",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Sweet Scars Version (BKB)",
@@ -950,7 +950,7 @@
         Genre = "BKB",
         ImageId = "",
         SoundId = "rbxassetid://87322072205851",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Where Do We Begin (BKB)",
@@ -982,7 +982,7 @@
         Genre = "IndoBounce",
         ImageId = "",
         SoundId = "rbxassetid://103095593283627",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "WHEN IM GONE (IDB)",
@@ -990,7 +990,7 @@
         Genre = "IndoBounce",
         ImageId = "",
         SoundId = "rbxassetid://75101974333830",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "STAR BOY (IDB)",
@@ -998,7 +998,7 @@
         Genre = "IndoBounce",
         ImageId = "",
         SoundId = "rbxassetid://123395898349735",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Nasty Thrash (IDB)",
@@ -1006,7 +1006,7 @@
         Genre = "IndoBounce",
         ImageId = "",
         SoundId = "rbxassetid://86919960453043",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Tsunami (IDB)",
@@ -1014,7 +1014,7 @@
         Genre = "IndoBounce",
         ImageId = "",
         SoundId = "rbxassetid://139084637892286",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "CLICK CLACK - BABYMONSTER",
@@ -1022,7 +1022,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://117498327258806",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BTS - Hooligan",
@@ -1030,7 +1030,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://115324577313597",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BTS - Take Two",
@@ -1038,7 +1038,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://137593511813738",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BTS - Swim",
@@ -1046,7 +1046,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://89751212995132",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Jungkook - Steel With You",
@@ -1054,7 +1054,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://96549962030018",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "REALLY LIKE U - BABYMONSTER",
@@ -1062,7 +1062,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://82148283072059",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BILLIONARE - BABYMONSTER",
@@ -1070,7 +1070,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://90725612840353",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "DRIP - BABYMONSTER",
@@ -1078,7 +1078,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://84103592017060",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "WE GO UP - BABY MONSTER",
@@ -1086,7 +1086,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://90725612840353",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SPOT - ZICO",
@@ -1094,7 +1094,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://75396950617050",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LIKE THAT - BABY MONSTER",
@@ -1102,7 +1102,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://112589660593837",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "ARMAGEDDON - AESPA",
@@ -1110,7 +1110,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://90038487687881",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BATTER UP - BABY MONSTER",
@@ -1118,7 +1118,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://116954961966189",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "DNA - BTS",
@@ -1126,7 +1126,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://137506097427733",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BLOOD SWEAT & TEARS - BTS",
@@ -1134,7 +1134,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://73126117430448",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LOVE SICK GIRLS - BLACKPINK",
@@ -1142,7 +1142,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://118695533201242",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BOOMBAYAH - BLACKPINK",
@@ -1150,7 +1150,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://117842694501864",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LALISA - LISA",
@@ -1158,7 +1158,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://94639567472189",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "TT - TWICE",
@@ -1166,7 +1166,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://82535032958991",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BOOM BOOM",
@@ -1174,7 +1174,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://92868011385617",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LIKEY - TWICE",
@@ -1182,7 +1182,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://77065610317419",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SHUTDOWN - BLACKPINK",
@@ -1190,7 +1190,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://116579648869552",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "KO KO BOP - EXO",
@@ -1198,7 +1198,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://126415936952393",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "NOT TODAY - BTS",
@@ -1206,7 +1206,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://134053082009206",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "CHEER UP - TWICE",
@@ -1214,7 +1214,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://98913206251004",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "FANTASTIC BABY - BIGBANG",
@@ -1222,7 +1222,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://122037547647520",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "WANNABE - ITZY",
@@ -1230,7 +1230,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://113746401908607",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "FEEL SPECIAL - TWICE",
@@ -1238,7 +1238,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://139158205407236",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "FLOWER - JISOO",
@@ -1246,7 +1246,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://85156362817621",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "MIC DROP - BTS",
@@ -1254,7 +1254,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://86365422111629",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "GEE - Girls' Generation",
@@ -1262,7 +1262,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://128785906497529",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "JUMP - BLACKPINK",
@@ -1270,7 +1270,7 @@
         Genre = "KPop",
         ImageId = "",
         SoundId = "rbxassetid://104690900435206",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SHEESH - BABYMONSTER",
@@ -1278,7 +1278,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://140226286228568",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BANG BANG BANG - BIGBANG",
@@ -1286,7 +1286,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://123389445068067",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "HARU HARU - BIGBANG",
@@ -1294,7 +1294,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://140131869077336",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "MA BOY - ELECTRICBOYZ",
@@ -1350,7 +1350,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://129763372531957",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "KPOP MIXTAPE",
@@ -1366,7 +1366,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://117765022607040",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Say Yes",
@@ -1374,7 +1374,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://110304767331324",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "DAVICHI(다비치) - This Love",
@@ -1382,7 +1382,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://95436801685463",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Stay With Me",
@@ -1390,7 +1390,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://127366537757526",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LeeHi - ONLY",
@@ -1398,7 +1398,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://139023395432820",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "iKON - RHYTHM TA",
@@ -1406,7 +1406,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://73277690717796",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "EXO - Wolf",
@@ -1414,7 +1414,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://80680510026208",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "EXO - Overdose",
@@ -1422,7 +1422,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://122020220420142",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Ryan.B feat Effie - No Reason",
@@ -1430,7 +1430,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://109769108171257",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "aespa - Black Mamba",
@@ -1438,7 +1438,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://121509266552742",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "iKON - BEST FRIEND",
@@ -1446,7 +1446,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://77840549290923",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "ITZY - MAFIA In the Morning",
@@ -1454,7 +1454,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://140177964594814",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "IVE - Baddie",
@@ -1462,7 +1462,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://115380649643985",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "KISS OF LIFE - Igloo",
@@ -1470,7 +1470,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://91723037780951",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "J-Hope - Killin' It Girl",
@@ -1478,7 +1478,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://81432215366319",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "BIBI - Vengeance",
@@ -1486,7 +1486,7 @@
         Genre = "Kpop",
         ImageId = "",
         SoundId = "rbxassetid://106449126102577",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Sick Of Love",
@@ -1502,7 +1502,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://108523168709049",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hate that",
@@ -1510,7 +1510,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://119071732164518",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Let the World Burn",
@@ -1518,7 +1518,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://135012436944764",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Love Me Harder",
@@ -1526,7 +1526,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://88765349901508",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "I Don't F*** With You",
@@ -1534,7 +1534,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://97628433850064",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Not Like Us",
@@ -1542,7 +1542,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://113405104904610",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hooligang",
@@ -1550,7 +1550,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://124792343564585",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "DRUNK TEXT",
@@ -1606,7 +1606,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://99870128986736",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "LOVELY",
@@ -1614,7 +1614,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://72347734620169",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Why Don't We - 8",
@@ -1622,7 +1622,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://110143008252043",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "RUDE",
@@ -1630,7 +1630,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://72699312806750",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SNOOZE",
@@ -1638,7 +1638,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://111037472780531",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "WE CAN'T BE FRIENDS",
@@ -1646,7 +1646,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://90195214037604",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "AFTERSHOCK",
@@ -1654,7 +1654,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://103563771008789",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "What You Sayin",
@@ -1662,7 +1662,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://136017764561588",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hero",
@@ -1670,7 +1670,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://100669206803921",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Love Me Not",
@@ -1678,7 +1678,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://121170977348234",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Show Me Love X Take My Mind",
@@ -1686,7 +1686,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://77439615154413",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Rather Be",
@@ -1694,7 +1694,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://97567599924166",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "People X Terminator",
@@ -1702,7 +1702,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://74803782302234",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SADRAH",
@@ -1710,7 +1710,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://85671588515218",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "SERENA",
@@ -1718,7 +1718,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://81149121778872",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Jakarta Hari Ini",
@@ -1726,7 +1726,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://82289937347216",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Choose Your Fighter",
@@ -1734,7 +1734,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://80746554502546",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Why Don't We - 8",
@@ -1742,7 +1742,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://110740193242688",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "La La Lost You",
@@ -1750,7 +1750,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://89449400087715",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "How To Love",
@@ -1758,7 +1758,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://112703273716811",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Play Date",
@@ -1766,7 +1766,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://102298102851247",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "I Love You Baby",
@@ -1774,7 +1774,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://125892416908275",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Stay The Night",
@@ -1782,7 +1782,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://125231273303034",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Take A Chance With Me",
@@ -1790,7 +1790,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://120557066324841",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "All We Know",
@@ -1798,7 +1798,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://136521701592337",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Señorita",
@@ -1806,7 +1806,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://87853788595107",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Latih",
@@ -1814,7 +1814,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://118220565373732",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Don't Let Me Down",
@@ -1822,7 +1822,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://128576868581399",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Give Me Everything",
@@ -1830,7 +1830,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://85608899980757",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Till It Hurts",
@@ -1838,7 +1838,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://92429509326015",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Bawa Santai",
@@ -1846,7 +1846,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://102561009876654",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Come Closer",
@@ -1854,7 +1854,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://100746612988665",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Alone",
@@ -1862,7 +1862,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://83054423835520",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Robbery",
@@ -1870,7 +1870,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://85959269408258",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Back To Friends",
@@ -1878,7 +1878,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://134810820474790",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Who's That Girl",
@@ -1886,7 +1886,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://102573007743334",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "New Rules",
@@ -1894,7 +1894,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://114406076369452",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Forget You",
@@ -1902,7 +1902,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://111148013495944",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Hello",
@@ -1910,7 +1910,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://104772402781269",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "The Final Countdown",
@@ -1918,7 +1918,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://136195599276734",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "The One That Got Away",
@@ -1926,7 +1926,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://139401348578117",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Dear God",
@@ -1934,7 +1934,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://128654247847633",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Collide",
@@ -1942,7 +1942,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://138849891874961",
-        Speed = 1,
+        Speed = 1.0
     },
     {
         Title = "Without Me",
@@ -1950,7 +1950,7 @@
         Genre = "Original Track",
         ImageId = "",
         SoundId = "rbxassetid://111247568981680",
-        Speed = 1,
+        Speed = 1.0
     },
     ]
 }
